@@ -9,7 +9,7 @@ hand_cascade = cv2.CascadeClassifier('hand.xml')
 cap = cv2.VideoCapture(0)
 
 # Set the scaling factor for the images
-scale_factor = 0.5
+scale_factor = 0.3
 
 # Set the window size for the mouse movement
 window_size = 50
